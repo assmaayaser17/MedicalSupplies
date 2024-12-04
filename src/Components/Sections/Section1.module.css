@@ -1,0 +1,14 @@
+
+.element {
+
+    background-image: url('../../assets/images/coverr.png');
+    height: 100vh;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+
+
+
+}
+

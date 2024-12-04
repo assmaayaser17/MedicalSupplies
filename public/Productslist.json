@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "name": "EGYSORB Polypropylene",
+      
+      "image": "https://res.cloudinary.com/dnw4gixny/image/upload/v1732991098/cncsa5ck4mncqgyk88ze.jpg" ,
+      "description": "PROLENE Sutures (dyed or undyed) are non-absorbable, sterile surgical suture composed of an isotactic crystalline steroisomer of polypropylene, a synthetic linear polyolefin.  PROLENE Sutures are indicated for use in general soft tissue approximating and/or ligation, including use in cardiovascular, ophthalmic and neurosurgical procedures. "
+    },
+    {
+      "id": 2,
+      "name": "TRUGLYDE Vicryl",
+      
+      "image": "https://res.cloudinary.com/dnw4gixny/image/upload/v1732991097/ozy3by0guskmb7uwmkau.jpg",
+      "description": "Vicryl is the most widely used braided synthetic absorbable suture. Vicryl features exclusive technology inside and out for excellent handling and durable wound support."
+    }
+   
+  ]
+  
